@@ -11,4 +11,4 @@ This demo page showcases our separation-and-transcription pipeline for automatic
   - Each set includes Mixture + the five stems above.
 
 ### Data note
-The drum sounds in our examples are rendered from one-shot samples extracted from the StemGMD dataset.
+Some of the drum sounds in our examples are rendered from one-shot samples extracted from the StemGMD dataset.
